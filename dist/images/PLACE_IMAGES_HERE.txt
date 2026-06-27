@@ -1,0 +1,2 @@
+# Place your image assets (jpg, png, webp, svg) in this directory.
+# You can reference them in portfolioData.ts using: './images/filename.ext'
