@@ -242,7 +242,7 @@ export const portfolioData: PortfolioData = {
       github: 'https://github.com/Ugile-pratik/JalSankalp.git',
       demo: '#',
       gradient: '',
-      image: 'public/images/Jalsankalp.jpeg'
+      image: './images/Jalsankalp.jpeg'
     },
     {
       title: 'Synca',
@@ -251,7 +251,7 @@ export const portfolioData: PortfolioData = {
       github: 'https://github.com/Ugile-pratik/Synca.git',
       demo: '#',
       gradient: '',
-      image: 'public/images/Synca.jpeg'
+      image: './images/Synca.jpeg'
     },
     {
       title: 'PromptPal',
@@ -260,7 +260,7 @@ export const portfolioData: PortfolioData = {
       github: 'https://github.com/Ugile-pratik/PromptPal-Chatbot.git',
       demo: '#',
       gradient: '',
-      image: 'public/images/promptpal.jpeg'
+      image: './images/promptpal.jpeg'
     },
     
   ],
@@ -290,8 +290,8 @@ export const portfolioData: PortfolioData = {
       eventName: 'Smart India Hackathon 2025',
       description: 'Participated in the Smart India Hackathon (SIH) as a member of Team HexaMind, collaborating to design and develop an innovative technology solution under strict time constraints while applying problem-solving, teamwork, and software development skills.',
       photos: [
-        'public/images/SIH2.jpeg',
-        'public/images/SIH1.jpeg'
+        './images/SIH2.jpeg',
+        './images/SIH1.jpeg'
       ]
     },
   ],
