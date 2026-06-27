@@ -307,14 +307,14 @@ export const portfolioData: PortfolioData = {
       'Contact Details'
     ],
     responses: {
-      about: "Pratik Ugile is an MCA student at Savitribai Phule Pune University and a Full Stack Developer. He builds modern, high-performance web applications and is highly passionate about AI, machine learning, and systems architecture.",
-      skills: "Pratik is proficient across programming languages (Python, Java, JavaScript, PHP), database architectures (SQL, MongoDB, GraphDB Neo4j), and version control (Git, GitHub).",
-      projects: "Some of Pratik's notable projects include Promptpal (AI KNN Chatbot), Blood Bank Donation System, Mini Clinic ERP, and an E-commerce Android app. Click the Projects section to explore them!",
-      education: "Pratik is currently pursuing his MCA (2024-Present) at Savitribai Phule Pune University. He previously graduated with distinction in BCA (2021-2024).",
-      certifications: "Pratik holds certifications in Python for Data Science and AI (IBM), Java Programming Masterclass (Udemy), and Full Stack Web Development (Infosys Springboard).",
-      activities: "Pratik is very active in tech hackathons and meetups! He won the 'Most Innovative Architecture' award at the National Level Web Hackathon 2025 and won first place at the University Tech Fest for his Promptpal presentation.",
-      contact: "You can reach Pratik at pratikugile@gmail.com, connect with him on LinkedIn, or fill out the contact form below.",
-      default: "I'd love to chat more! But i am still under Development. Please reach out to Pratik directly via email or LinkedIn for any inquiries."
+      about: "Pratik Ugile is an MCA student at IMCC, Pune and a Full Stack Developer. He builds modern, high-performance web applications and is highly passionate about AI, databases, and governance technologies.",
+      skills: "Pratik is proficient in Python, Java, JavaScript, and PHP, along with database systems like SQL, MongoDB, and Neo4j. He also uses Git, GitHub, and Jira for project management.",
+      projects: "Some of Pratik's featured projects are:\n1. **JalSankalp**: A smart digital water distribution governance suite.\n2. **Synca**: A real-time inventory management engine to eliminate booking conflicts.\n3. **PromptPal**: An AI-powered self-learning chatbot using KNN & VSM vector similarity.\n\nCheck out the Projects section on this page to view details and links!",
+      education: "Pratik is currently pursuing his MCA (2025-Present) at Institute of Management and Computer Studies (IMCC), Pune with a current CGPA of 8.91. He previously graduated with distinction in BCA (2022-2025) at Savitribai Phule Pune University with an 8.64 CGPA.",
+      certifications: "Pratik holds a certification in DSA with JAVA from Apna College (2025).",
+      activities: "Pratik is highly active in tech and management events! He participated in the Smart India Hackathon (SIH) 2025 as a member of Team HexaMind, and served as a Cultural Committee Member for Jigyasa-2026 at IMCC, Pune.",
+      contact: "You can reach Pratik at pr749918@gmail.com, connect with him on LinkedIn, or send a direct message/WhatsApp using the Get In Touch form below.",
+      default: "I'd love to chat more! You can explore the sections on this website or send Pratik a message directly using the Contact Form."
     }
   }
 };
