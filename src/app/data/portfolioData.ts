@@ -277,14 +277,13 @@ export const portfolioData: PortfolioData = {
   ],
 
   activities: [
-  
     {
-      eventName: 'Jigyasa-2026 at IMCC,Pune ',
+      eventName: 'Jigyasa-2026 at IMCC, Pune',
       description: 'Proud to be a Cultural committee member for Jigyasa, an intercollegiate competition that brings together talented minds to compete, learn, and innovate.',
       photos: [
-        'public/images/jigyasa1.jpeg',
-        'public/images/jigyasa2.jpeg',
-        'public/images/jigyasa3.jpeg'
+        './images/jigyasa1.jpeg',
+        './images/jigyasa2.jpeg',
+        './images/jigyasa3.jpeg'
       ]
     }
   ],
