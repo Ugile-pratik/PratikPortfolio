@@ -241,8 +241,8 @@ export const portfolioData: PortfolioData = {
       tech: ['React', 'Node.js', 'Express', 'MySQL', 'React Native'],
       github: 'https://github.com/Ugile-pratik/JalSankalp.git',
       demo: '#',
-      gradient: 'from-[#3b82f6] to-[#6366f1]',
-      image: 'https://images.unsplash.com/photo-1684493735679-359868df0e18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080'
+      gradient: '',
+      image: 'public/images/Jalsankalp.jpeg'
     },
     {
       title: 'Synca',
@@ -250,8 +250,8 @@ export const portfolioData: PortfolioData = {
       tech: ['Python', 'Django', 'MySQL', 'HTML', 'CSS', 'JavaScript', 'Bootstrap'],
       github: 'https://github.com/Ugile-pratik/Synca.git',
       demo: '#',
-      gradient: 'from-[#dc2626] to-[#f43f5e]',
-      image: 'https://images.unsplash.com/photo-1697192156499-d85cfe1452c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080'
+      gradient: '',
+      image: 'public/images/Synca.jpeg'
     },
     {
       title: 'PromptPal',
@@ -259,8 +259,8 @@ export const portfolioData: PortfolioData = {
       tech: ['Python', 'Flask', 'KNN', 'Vector Space Model', 'HTML', 'CSS', 'JavaScript'],
       github: 'https://github.com/Ugile-pratik/PromptPal-Chatbot.git',
       demo: '#',
-      gradient: 'from-[#0d9488] to-[#0284c7]',
-      image: 'https://images.unsplash.com/photo-1576091160550-2173dba999ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080'
+      gradient: '',
+      image: 'public/images/promptpal.jpeg'
     },
     
   ],
@@ -285,7 +285,15 @@ export const portfolioData: PortfolioData = {
         './images/jigyasa2.jpeg',
         './images/jigyasa3.jpeg'
       ]
-    }
+    },
+    {
+      eventName: 'Smart India Hackathon 2025',
+      description: 'Participated in the Smart India Hackathon (SIH) as a member of Team HexaMind, collaborating to design and develop an innovative technology solution under strict time constraints while applying problem-solving, teamwork, and software development skills.',
+      photos: [
+        'public/images/SIH2.jpeg',
+        'public/images/SIH1.jpeg'
+      ]
+    },
   ],
 
   chatbot: {
@@ -306,7 +314,7 @@ export const portfolioData: PortfolioData = {
       certifications: "Pratik holds certifications in Python for Data Science and AI (IBM), Java Programming Masterclass (Udemy), and Full Stack Web Development (Infosys Springboard).",
       activities: "Pratik is very active in tech hackathons and meetups! He won the 'Most Innovative Architecture' award at the National Level Web Hackathon 2025 and won first place at the University Tech Fest for his Promptpal presentation.",
       contact: "You can reach Pratik at pratikugile@gmail.com, connect with him on LinkedIn, or fill out the contact form below.",
-      default: "I'd love to chat more! You can explore the sections on this website or send Pratik a message directly using the Contact Form."
+      default: "I'd love to chat more! But i am still under Development. Please reach out to Pratik directly via email or LinkedIn for any inquiries."
     }
   }
 };
